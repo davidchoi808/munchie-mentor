@@ -1,2 +1,2 @@
 # munchie-mentor
-This is my meal planning app that is developed both in vs code and lovable. There is two way sync between the two
+This a pet project meal planning app using an AI assistant to recommend dishes for the week. The assistant can also generate the actual recipes and ingredients list. Meals can then be added to a calendar with all ingredients pushed to specified grocery lists.
